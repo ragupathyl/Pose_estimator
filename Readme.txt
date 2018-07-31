@@ -4,7 +4,7 @@
 
 Created by Lakshmi Naarayanan Ragupathy: As part of a coding skill review for Brain Corp.
 
-gitlab link: https://gitlab.com/lakshmiragupathy/Pose_estimator
+github link: https://github.com/ragupathyl/Pose_estimator
 
 
 The file layout is organized as follows:
