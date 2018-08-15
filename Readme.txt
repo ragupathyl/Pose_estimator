@@ -22,11 +22,6 @@ The file layout is organized as follows:
 <current_directory>/tools    -  Contains the API code estimate.cpp along with its supporting function files 
                                  (matrix_inversion.cpp, initializing_covariances.cpp and jacobian_functions.cpp)
 
--------------------------------------------------------------------------
-|The Required estimate() API file is saved in <current_directory>/tools |
--------------------------------------------------------------------------
-
-
 Testing:
 --------
 This project is fully self contained with boost files included.(Requires make and g++ to compile) 
